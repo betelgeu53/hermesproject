@@ -1,2 +1,2 @@
 # hermesproject
-Repo for my hermes project in observational astronomy course
+Repositories for my HERMES project in observational techniques in astronomy course (Sept25-Des2025)
